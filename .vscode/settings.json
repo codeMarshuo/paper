@@ -1,0 +1,13 @@
+{
+  "git.enabled": true,
+  "git.autoRepositoryDetection": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.showActionButton": {
+    "commit": true,
+    "publish": true,
+    "sync": true
+  },
+  "github.gitAuthentication": true,
+  "github.gitProtocol": "https"
+}

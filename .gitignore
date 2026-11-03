@@ -1,0 +1,15 @@
+# Local cache and temporary files
+.DS_Store
+Thumbs.db
+Desktop.ini
+__pycache__/
+.ipynb_checkpoints/
+*.tmp
+*.bak
+
+# Private local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
